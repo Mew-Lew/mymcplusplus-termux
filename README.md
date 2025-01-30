@@ -10,3 +10,9 @@ This repository provides a script to manage PlayStation 2 memory card (`.ps2`) f
 ## Quick Start  
 
 To set up and use the script, refer to **`mymc.md`**.  
+
+Termux - https://f-droid.org/packages/com.termux/
+MiXplorer File Manager - https://play.google.com/store/apps/details?id=com.mixplorer.silver
+Video Tutorial - https://youtu.be/j5WRCesqOcM
+
+If you like my scripts and the video, come and say hi on https://discord.com/invite/gShbMStF8e
