@@ -1,4 +1,5 @@
 #!/bin/bash
+# This script downloads and utilizes mymcplusplus, which is licensed under GPLv3: https://github.com/Adubbz/mymcplusplus
 
 echo -e "\e[32mUpdating Termux package lists...\e[0m"
 pkg update -y && \
