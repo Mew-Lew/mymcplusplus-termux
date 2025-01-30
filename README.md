@@ -1,4 +1,4 @@
-# MyMc++ PS2 Memory Card Manager for Termux  
+# mymc++ PS2 Memory Card Manager for Termux  
 
 This repository provides a script to manage PlayStation 2 memory card (`.ps2`) files in Termux using `mymcplusplus`.  
 
